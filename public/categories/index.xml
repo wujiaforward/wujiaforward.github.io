@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on Kid knight</title>
-    <link>https://wujiaforward.github.io/categories/</link>
-    <description>Recent content in Categories on Kid knight</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://wujiaforward.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+    <channel>
+        <title>Categories on kid knight</title>
+        <link>http://localhost:1313/categories/</link>
+        <description>Recent content in Categories on kid knight</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>kid knight</copyright>
+        <lastBuildDate>Mon, 28 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Setup</title>
+        <link>http://localhost:1313/categories/setup/</link>
+        <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/setup/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>http://localhost:1313/categories/test/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/test/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        
+    </channel>
 </rss>
